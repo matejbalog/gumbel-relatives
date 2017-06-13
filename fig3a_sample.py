@@ -5,7 +5,7 @@ import numpy as np
 import astar
 import robustbayesregr
 
-from Gumbel import EULER
+from tricks import EULER
 from utils import print_progress, json_dump
 
 

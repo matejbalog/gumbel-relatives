@@ -1,8 +1,8 @@
 # Lost Relatives of the Gumbel Trick
 
-Matej Balog, Nilesh Tripuraneni, Zoubin Ghahramani, Adrian Weller
+[Matej Balog](http://matejbalog.eu/en/research/), [Nilesh Tripuraneni](https://amplab.cs.berkeley.edu/author/nilesh_tripuraneni/), [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/), [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/)
 
-*34th International Conference on Machine Learning (ICML), 2017.*
+*34th International Conference on Machine Learning ([ICML 2017](https://2017.icml.cc/))*
 
 [[PDF](http://matejbalog.eu/research/lost_relatives_of_the_gumbel_trick.pdf)]
 
