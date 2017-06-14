@@ -4,7 +4,8 @@
 
 *34th International Conference on Machine Learning ([ICML 2017](https://2017.icml.cc/))*
 
-[[PDF](http://matejbalog.eu/research/lost_relatives_of_the_gumbel_trick.pdf)]
+[[PDF](http://matejbalog.eu/research/lost_relatives_of_the_gumbel_trick.pdf)] 
+[[arXiv](https://arxiv.org/abs/1706.04161)]
 
 This repository contains scripts to reproduce experiments appearing in this academic paper.
 
